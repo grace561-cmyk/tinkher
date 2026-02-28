@@ -61,6 +61,24 @@ The platform focuses on **confidence building + structured action**, not just su
 
 ---
 
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](login.png)
+
+### 🧭 Career Quiz
+![Quiz](interest.png)
+
+### 💼 Job Suggestions
+![Jobs](jobs.png)
+
+### 📚 Course Progress Tracking
+![Course](progress.png)
+
+---
+
 ## 🛠 Tech Stack
 
 **Frontend**
