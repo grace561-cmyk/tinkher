@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Skill Check</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="card">
+
+<h1>Skill Assessment</h1>
+
+<p>1. Have you used a computer for work before?</p>
+<button onclick="score(1)">Yes</button>
+<button onclick="score(0)">No</button>
+
+<p>2. Can you send professional emails?</p>
+<button onclick="score(1)">Yes</button>
+<button onclick="score(0)">No</button>
+
+<p>3. Have you used Excel or Google Sheets?</p>
+<button onclick="score(1)">Yes</button>
+<button onclick="score(0)">No</button>
+
+<p>4. Can you learn new tools on your own?</p>
+<button onclick="score(1)">Yes</button>
+<button onclick="score(0)">No</button>
+
+<br><br>
+
+<button onclick="showLevel()">See My Skill Level</button>
+
+<p id="result"></p>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
